@@ -4,7 +4,7 @@
 +91 9790053858 | sudharsanv36@gmail.com | https://linkedin.com/in/sudharsanan-s-r-59452453
 
 ## Summary
-Highly accomplished Application Engineering Manager with 12+ years of experience driving innovation and delivering scalable enterprise solutions in Platform Engineering. Proven leader specializing in ServiceNow, adept at spearheading security initiatives across 39 products and developing critical back-end automation for Fortune 500 clients. Possessing deep architectural expertise in building scalable applications, regularly provides technical leadership and mentorship to engineering teams, having mentored and led over 20 engineers throughout my career. Expert in optimizing operations, evidenced by saving over 2,500 hours monthly, and leveraging technical expertise to design and implement robust systems, including custom CMDB applications for 20,000+ CIs and integrating complex platforms for over 10,000 users.
+Highly accomplished Application Engineer with 12+ years of experience driving innovation and delivering scalable enterprise solutions in Platform Engineering. Proven leader specializing in ServiceNow, adept at spearheading security initiatives across 39 products and developing critical back-end automation for Fortune 500 clients. Possessing deep architectural expertise in building scalable applications, regularly provides technical leadership and mentorship to engineering teams, having mentored and led over 20 engineers throughout my career. Expert in optimizing operations, evidenced by saving over 2,500 hours monthly, and leveraging technical expertise to design and implement robust systems, including custom CMDB applications for 20,000+ CIs and integrating complex platforms for over 10,000 users.
 
 ## Experience
 
