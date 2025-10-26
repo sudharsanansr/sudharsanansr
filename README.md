@@ -53,7 +53,14 @@ Highly accomplished Application Engineering Manager with 12+ years of experience
 **Frameworks/Libraries:** jQuery, NodeJS
 **Other Technologies:** LLM, Generative AI (Self-study)
 
-**Soft Skills:** Communication, Solution Design, Consulting, Leadership, Problem Solving, Conflict Management, Teamwork
+**Soft Skills:** 
+- Communication
+- Leadership
+- Problem Solving
+- Conflict Management
+- Teamwork
+- Solution Design
+- Solution Consulting
 
 ## Education
 
